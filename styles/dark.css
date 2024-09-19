@@ -1,17 +1,12 @@
 .page.theme_dark {
-  --title-color: #db00ff;
-  --subtitle-color: #000028;
-  --subtitle-background-color: #ff0070;
-  --main-text-color: #f1b2ce;
-  --section-title-text-color: var(--subtitle-background-color);
-  --theme-switchers: var(--subtitle-background-color);
-  --shadow-color: var(--subtitle-background-color);
-  --record-color: var(--subtitle-background-color);
-  --bakground-color: var(--subtitle-color);
-  --background-image: url(../images/cover-image-dark.png);
-  --corner: var(--subtitle-background-color);
-  --text-shadow: #ff0070;
-}
-.page.theme_dark .rec {
-  display: block;
+    --color-accent: #ff0070;
+    --color-title: #db00ff;
+    --color-shadow: #ff0070;
+    --color-background: #ff0070;
+    --color-link: #ff0070;
+    --color-subtitle: #000028;
+    --color-content: #f1b2ce;
+    --background-image: url(../images/cover-image-dark.png);
+    --display: block;
+    --hover: rgba(255, 0, 112, 0.4);
 }
