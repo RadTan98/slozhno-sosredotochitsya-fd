@@ -1,1 +1,1 @@
-git@github.com:RadTan98/slozhno-sosredotochitsya.git
+Третья работа RadTan98/slozhno-sosredotochitsya.git
